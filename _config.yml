@@ -22,7 +22,7 @@ author: Teddy Tortorici
 navbar-links:
   About Me: "pages/aboutme"
   Portfolio:
-    - PhD Thesis: "files/thesis"
+    - PhD Thesis: "pages/thesis"
   Author's home: "https://deanattali.com"
 
 ################
