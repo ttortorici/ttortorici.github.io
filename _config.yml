@@ -23,7 +23,7 @@ navbar-links:
   About Me: "pages/aboutme"
   Portfolio:
     - PhD Thesis: "pages/thesis"
-  Author's home: "https://deanattali.com"
+    - Google Scholar: "https://scholar.google.com/citations?user=KodAxyoAAAAJ&hl=en"
 
 ################
 # --- Logo --- #
