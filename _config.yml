@@ -22,8 +22,7 @@ author: Teddy Tortorici
 navbar-links:
   About Me: "pages/aboutme"
   Portfolio:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - PhD Thesis: "files/thesis"
   Author's home: "https://deanattali.com"
 
 ################
