@@ -46,4 +46,7 @@ Matthew Glaser
 Niels Damrauer
 
 <a href="../files/thesis-submitted-version.pdf" target="_blank">Submitted thesis (PDF download)</a>
+
 <a href="https://www.proquest.com/openview/6196a6a24109f42e7403aa9ee6e62c0f/1?pq-origsite=gscholar&cbl=18750&diss=y" target="_blank">Published thesis</a>
+
+<a href="../files/thesis-defense.pdf" target="_blank">Thesis defense presentation slides (PDF download)</a>

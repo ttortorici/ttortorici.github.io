@@ -23,7 +23,8 @@ navbar-links:
   About Me: "pages/aboutme"
   Portfolio:
     - PhD Thesis: "pages/thesis"
-    - Google Scholar: "pages/publications"
+    - Publications: "pages/publications"
+    - Repositories: "pages/repositories"
 
 ################
 # --- Logo --- #
