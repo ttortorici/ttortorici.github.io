@@ -33,7 +33,7 @@ Department of Physics
 2025
 </p>
 
-<p align="right">
+<p align="center">
 Committee Members:
 </p>
 <p align="center">
