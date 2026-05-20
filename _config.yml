@@ -23,7 +23,7 @@ navbar-links:
   About Me: "pages/aboutme"
   Portfolio:
     - PhD Thesis: "pages/thesis"
-    - Google Scholar: "https://scholar.google.com/citations?user=KodAxyoAAAAJ&hl=en"
+    - Google Scholar: "pages/publications"
 
 ################
 # --- Logo --- #
