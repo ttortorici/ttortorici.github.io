@@ -33,23 +33,16 @@ Department of Physics
 2025
 </p>
 
-<p align="center">
 Committee Members:
-</p>
-<p align="center">
+
 Charles Rogers, Chair
-</p>
-<p align="center">
+
 Paul Beale
-</p>
-<p align="center">
+
 Gang Cao
-</p>
-<p align="center">
+
 Matthew Glaser
-</p>
-<p align="center">
+
 Niels Damrauer
-</p>
 
 <a href="../files/thesis-submitted-version.pdf" target="_blank">View PDF</a>
